@@ -20,10 +20,10 @@
 
 ```bash
 # Compile
-cobc -x -free hotel_elite.cbl -o hotel_elite
+cobc -x -free hotel.cob -o hotel
 
 # Run
-./hotel_elite
+./hotel
 ```
 
 Requires **GnuCOBOL 3.x**:
